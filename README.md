@@ -1,5 +1,7 @@
 # Starting Out In Tech
 
+I was asked recently to give someone advice on how best to learn to code and become better acquainted with the startup and technology scene in London. I replied with a lengthy email and decided to put its contents in a publicly accessible place based on the feedback it received. I don't profess to be an expert on any of this stuff; these are my personal recommendations based on my 3 year's experience of working with technology in London.
+
 ## Learning to code
 Everyone has a different opinion about how to get into coding. Putting to one side how to teach code to young kids, the majority recommend Python or Javascript. I recommend javascript because combined with HTML and CSS, which are relatively simple to pick up, it's very quick for beginners to see something tangible on the screen (ie a webpage) which I think motivates people to continue more than seeing a load of error messages which can be frightening for first timers.
 
